@@ -1,0 +1,5 @@
+C:\Users\kocom\OneDrive\Masaüstü\ödev\Okulodev\obj\Debug\Okulodev.csproj.AssemblyReference.cache
+C:\Users\kocom\OneDrive\Masaüstü\ödev\Okulodev\obj\Debug\Okulodev.frmgiris.resources
+C:\Users\kocom\OneDrive\Masaüstü\ödev\Okulodev\obj\Debug\Okulodev.Properties.Resources.resources
+C:\Users\kocom\OneDrive\Masaüstü\ödev\Okulodev\obj\Debug\Okulodev.csproj.GenerateResource.cache
+C:\Users\kocom\OneDrive\Masaüstü\ödev\Okulodev\obj\Debug\Okulodev.csproj.CoreCompileInputs.cache
